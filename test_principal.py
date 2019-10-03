@@ -1,5 +1,3 @@
-from principal import media
-
-
-def test_media():
-    assert media(10, 10, 10, 10) == 10
+n1 = 2+1
+n1 == n2
+print(n2)
